@@ -1,0 +1,36 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+.component {
+    padding: 20px;
+    border: 1px solid black;
+    color: black;
+    background-color: lightgreen;
+    margin: 10px;
+}
+
+.aux {
+    padding: 20px;
+    border: 1px solid black;
+    background-color: gold;
+    color: black;
+    margin: 10px;
+}
+
+.primary-outlet {
+    padding: 20px;
+    background-color: dodgerblue;
+}
+
+.aux-outlet {
+    padding: 20px;
+    background-color: orangered
+}
+
+.app {
+    padding: 20px;
+    background-color: rebeccapurple;
+    color: white;
+}
